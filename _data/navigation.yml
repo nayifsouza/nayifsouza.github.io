@@ -8,8 +8,8 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Publications"
-    url: /http://arxiv.org/abs/2611.23411/
+  #- title: "Publications"
+  #  url: /http://arxiv.org/abs/2611.23411/
 
   #- title: "Zenodo"
   #  url: /zenodo/    
@@ -23,7 +23,7 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "CV"
+  - title: "Lattes CV"
     url: http://lattes.cnpq.br/8888652953547154
     
   #- title: "Guide"
