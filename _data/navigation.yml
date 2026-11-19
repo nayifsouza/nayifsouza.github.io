@@ -9,22 +9,22 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: /http://arxiv.org/abs/2611.23411/
 
-  - title: "Talks"
-    url: /talks/    
+  #- title: "Zenodo"
+  #  url: /zenodo/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  #- title: "Teaching"
+  #  url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  #- title: "Portfolio"
+  #  url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  #- title: "Blog Posts"
+  #  url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: http://lattes.cnpq.br/8888652953547154
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/
